@@ -1,7 +1,7 @@
 # Project Scumpy  
 ## High-Performance Workstation Architecture Research Case Study
 
-## Executive Summary
+## Summary
 This case study evaluates the design of a hypothetical high-performance gaming and streaming workstation for a client scenario involving OpTic Gaming.
 
 The objective was to recommend a hardware architecture capable of meeting performance goals for competitive gaming, content creation, and low-latency streaming while operating within an approximate $5,000 budget.
@@ -17,7 +17,7 @@ The proposed solution emphasizes:
 
 ---
 
-## Problem Statement
+## Problem
 The client required a workstation capable of:
 
 - Sustained high FPS gaming performance
@@ -41,9 +41,7 @@ Final estimated cost:
 - $4,972 pre-tax
 - $5,182.20 after tax
 
----
-
-## Technical Constraints
+### Technical Constraints
 Selections had to consider:
 
 - CPU/GPU balance
@@ -63,6 +61,11 @@ Hardware selection was based on:
 3. Cost-performance tradeoff analysis  
 4. Published performance characteristics  
 5. Risk reduction through future-proof component selection
+
+---
+
+## Design Workflow
+![Design Workflow](diagrams/design-workflow.png)
 
 ---
 
